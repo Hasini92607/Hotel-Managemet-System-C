@@ -24,13 +24,14 @@ Guest B can check in on the 6th).
 -Input Validation: Invalid inputs may cause the program to terminate to protect data integrity. Please follow on-screen instructions during run  time carefully.  
 
 TO EXECUTE :  
+Note: The following commands are designed for Linux/Unix-based terminals (including macOS and WSL). They will not work natively in Windows  Command Prompt or PowerShell.  
 Ensure you have the following files in your directory:  
 main.c (main function)  
 mylib.c (Helper functions)  
 functions.h (Header file)  
 Makefile (Build instructions)  
 
--necessary compilation is done by running  the makefile as 'make'  
+-necessary compilation is done by running  the makefile as 'make'   
 -execution is done by running './a.out'  
 -to remove executables and start fresh run 'make clean'
 
