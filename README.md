@@ -29,7 +29,9 @@ Ensure you have the following files in your directory:
 main.c (main function)  
 mylib.c (Helper functions)  
 functions.h (Header file)  
-Makefile (Build instructions)  
+Makefile (Build instructions)   
+
+run following commands on your terminal : 
 
 -necessary compilation is done by running  the makefile as 'make'   
 -execution is done by running './a.out'  
